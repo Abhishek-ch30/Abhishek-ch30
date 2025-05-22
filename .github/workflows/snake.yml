@@ -3,7 +3,7 @@ name: Generate Snake Animation
 on:
   schedule:
     - cron: "0 */12 * * *"  # Runs every 12 hours
-  workflow_dispatch:
+  workflow_dispatch:       # Allows manual trigger
   push:
     branches:
       - main
@@ -11,9 +11,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
-    timeout-minutes: 5
     permissions:
-      contents: write
+      contents: write    # Required to push to a branch
 
     steps:
       - name: Generate snake.svg
@@ -22,10 +21,11 @@ jobs:
           github_user_name: ${{ github.repository_owner }}
           outputs: dist/snake.svg?palette=github-dark
 
-      - name: Push to output branch
+      - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
           build_dir: dist
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
