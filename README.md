@@ -1,5 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:004080&height=200&section=header&text=Abhishek%20Kumar%20Choudhary&fontSize=45&animation=fadeIn&fontAlignY=40" width="100%" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=50&pause=1000&color=00D1FF&center=true&vCenter=true&width=800&height=100&lines=ABHISHEK+KUMAR+CHOUDHARY" alt="Name" />
+  
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/Abhishek-ch30/Abhishek-ch30/main/assets/cyber-divider.gif" width="100%" />
+  </p>
+</div>
 
   ### ⚡ Full-Stack Architect | AI Agent Developer | Security Researcher ⚡
   
