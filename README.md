@@ -1,29 +1,82 @@
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Choudhary</h1>
-<h3 align="center">Passionate about building innovative software solutions and securing digital systems.</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,70:003366,100:004080&height=200&section=header&text=Abhishek%20Kumar%20Choudhary&fontSize=45&animation=fadeIn&fontAlignY=40" width="100%" />
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhishek-ch30" alt="abhishek-ch30" /></a> </p>
+  ### ⚡ Full-Stack Architect | AI Agent Developer | Security Researcher ⚡
+  
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=52D3FF&center=true&vCenter=true&width=500&lines=Building+AppGenesis+AI;Exploring+LLM+Security;Optimizing+Edge+AI+Agents;Full-Stack+Web+Developer)](https://git.io/typing-svg)
+</div>
 
-- 🔭 I’m currently working on **AppGenesis AI**
+---
 
-- 🌱 I’m currently learning **Machine Learning,React**
+## 🛰️ Digital Footprint
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Quick Stats</h3>
+      <ul>
+        <li>🔭 Working on: <b>AppGenesis AI</b></li>
+        <li>🌱 Mastering: <b>Machine Learning & React Optimization</b></li>
+        <li>🔐 Background: <b>40+ TryHackMe Rooms</b></li>
+        <li>💡 Passion: <b>Automation through AI</b></li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>📈 Activity Hub</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=Abhishek-ch30&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="100%" />
+    </td>
+  </tr>
+</table>
 
-- 🤝 I’m looking for help with **deploying AI agents efficiently in edge environments and optimizing LLM-based developer tools.**
+---
 
-- 💬 Ask me about **full-stack development,cybersecurity,automating workflows with AI**
+## 🛠️ My Tech Armory
 
-- 📫 How to reach me **abhishekvox15@gmail.com**
-
-- ⚡ Fun fact **I started exploring ethical hacking using TryHackMe and completed 40+ rooms before touching a production codebase.**
-
-<h3 align="left">Connect with me:</h3>
+### 🏗️ Construction (Languages & Frameworks)
 <p align="left">
-<a href="https://linkedin.com/in/abhishekkumarc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhishekkumarc" height="30" width="40" /></a>
+  <img src="https://skillicons.dev/icons?i=ts,js,py,cpp,java,react,nextjs,nodejs,express,tailwind" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"><a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### 🗄️ Foundation & Cloud (Database & Infra)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,gcp,linux,git,vscode,postman,figma" />
+</p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek-ch30&show_icons=true&locale=en&layout=compact" alt="abhishek-ch30" /></p>
+---
+
+## 🐍 Contribution Ecosystem
+<div align="center">
+  <img src="https://github.com/Abhishek-ch30/Abhishek-ch30/blob/output/github-contribution-grid-snake.svg" width="100%" alt="Snake Animation" />
+</div>
+
+---
+
+## 📊 Language Mastery
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abhishek-ch30&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Abhishek-ch30&theme=tokyonight&hide_border=true" width="45%" />
+</div>
+
+---
+
+## 🤝 Connect & Collaborate
+<div align="center">
+  <a href="https://linkedin.com/in/abhishek-kumar-choudhary-155052292">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:abhishekvox15@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/Abhishek-ch30">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlesheets&logoColor=white" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" width="80%" />
+</div>
+
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Abhishek-ch30/Abhishek-ch30/output/snake.svg" alt="Snake animation" />
+  <img src="https://komarev.com/ghpvc/?username=Abhishek-ch30&label=PROFILE+VIEWS&color=0077b5&style=flat-square" />
 </p>
