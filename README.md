@@ -76,6 +76,8 @@
   <hr />
 
   <h2 align="center">🐍 Contribution Ecosystem</h2>
+  <img src="https://raw.githubusercontent.com/Abhishek-ch30/Abhishek-ch30/output/github-contribution-grid-snake.svg" alt="Snake Animation" width="100%" />
+  <br />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhishek-ch30&theme=tokyonight&color=00D1FF&area=true&hide_border=true" width="100%" alt="Activity Graph" />
 
   <hr />
